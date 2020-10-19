@@ -1,3 +1,4 @@
-first_number = 1
-second_number = 2
-sum = 3 
+first_number = 14
+second_number = 7
+sum = 21
+first_number
